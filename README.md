@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Name:** Doctor Appointment System Using Django and Python 
+**Project Name:** Doctor Appointment System Using Django and Python  <br>
 **Author:** Khush
 
 
