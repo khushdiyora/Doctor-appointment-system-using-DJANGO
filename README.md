@@ -57,10 +57,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## If we find that this can be used for personal use, it must be illegal under the Copyright Law of India 2000 (Section 43 of the Information Technology Act, 2000). This project is not allowed to be changed in any way because it may contain copyright offenses. Instead, it is for Educational purposes.
 
 ### Section 43 of the Information Technology Act, 2000 contains:
